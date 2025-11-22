@@ -1,6 +1,6 @@
  document.addEventListener('DOMContentLoaded', function() {
          
-            const NOTEBOOKLM_CHAT_URL = "https://notebooklm.google.com/notebook/a07b0d8e-2f0e-4efe-b084-fd2fbf685fc1?authuser=1";
+            const NOTEBOOKLM_CHAT_URL = "https://notebooklm.google.com/notebook/cf085bb5-f919-4a51-88f7-5395f0d4dfdc";
             const SUMMARY_YOUTUBE_ID = "QQ5nhwKjTlc"; 
             const toast = document.getElementById('toast-notification');
             const originalToastText = '¡Requisitos copiados al portapapeles!'; 
